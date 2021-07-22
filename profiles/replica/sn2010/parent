@@ -1,0 +1,5 @@
+../../modules/by-arch/amd64
+../../modules/by-pkgs/linux
+../../modules/by-init/systemd
+../../modules/by-pkgs/device
+../../modules/by-pkgs/hotfix
